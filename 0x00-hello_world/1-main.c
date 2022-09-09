@@ -15,7 +15,9 @@
 int main(void)
 
 {
-	printf("Holberton School\n");
-	return (0);
+
+		printf("Holberton School");
+
+			return (0);
 
 }
