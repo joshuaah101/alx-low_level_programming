@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description - 'A program to out a sequence of string'
+ *
  * Return - Always 0 (Success)
  */
 
