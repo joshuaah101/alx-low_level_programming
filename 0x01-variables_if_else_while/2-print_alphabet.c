@@ -18,7 +18,8 @@ int main(void)
 	{
 		char x = tolower(a);
 		putchar(x);
-	}	
+	}
+	putchar(' ');
 	return (0);
 
 }
