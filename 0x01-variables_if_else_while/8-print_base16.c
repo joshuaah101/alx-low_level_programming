@@ -22,11 +22,11 @@ int main(void)
 	for (a = 'a'; a <= 'z'; a++)
 	{
 		putchar(a);
-		if(a == 'f')
+		if (a == 'f')
 		{
 			break;
 		}
-	}	
+	}
 	putchar('\n');
 	return (0);
 
