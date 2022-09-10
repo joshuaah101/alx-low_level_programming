@@ -13,7 +13,6 @@
 int main(void)
 {
 	char a;
-
 	for (a = 'A'; a <= 'Z'; a++)
 	{
 		char x = tolower(a);
