@@ -2,8 +2,9 @@
 
 /**
  * main - print 10 times lowercase alphabets
+ * Description: alphabet times 10
  *
- * Return: always 0 
+ * Return: always 0
  */
 
 void print_alphabet_x10(void)
