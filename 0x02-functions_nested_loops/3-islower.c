@@ -2,7 +2,7 @@
 
 /**
  * _islower - checks if a letter is lowecase
- *
+ * @x: the variable to check
  * Return: always 0
  */
 
@@ -12,7 +12,7 @@ int _islower(int x)
 
 	for (count = 'a'; count <= 'z'; count++)
 	{
-		if(x == count)
+		if (x == count)
 		{
 			return (1);
 		}
