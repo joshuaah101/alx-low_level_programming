@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _bs - entry point
+ * _abs - entry point
  * @n: n is an integer
  * Description: prints the absolute value of any number
  * Return: int
