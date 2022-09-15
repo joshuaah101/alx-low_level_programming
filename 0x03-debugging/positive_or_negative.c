@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * positive_or_negative - the function to test
@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
  */
 
-int positive_or_negative(int n)
+void positive_or_negative(int n)
 {
 
 	if (n < 0)
@@ -23,6 +23,6 @@ int positive_or_negative(int n)
 	{
 		printf("%d %s", n, "is positive\n");
 	}
-	return (0);
+	return;
 
 }
