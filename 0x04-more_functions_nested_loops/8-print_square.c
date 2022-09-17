@@ -19,7 +19,6 @@ void print_square(int n)
 			_putchar(hash);
 			j++;
 		}
-		
 		_putchar('\n');
 		i++;
 	}
