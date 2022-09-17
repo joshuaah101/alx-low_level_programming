@@ -9,20 +9,16 @@
 
 void print_most_numbers(void)
 {
-	char i = 48;
+	int a = 0;
 
-	while (i <= 57)
+	while (a <= 9)
 	{
-		_putchar(i + '0');
-		if (i == 50)
+		if (a != 2 && a != 4)
 		{
-			continue;
+			_putchar(a + '0');
 		}
-		else if (i == 52)
-		{
-			continue;
-		}
-		i++;
+		
+		a++;
 	}
 	_putchar('\n');
 }
