@@ -2,7 +2,7 @@
 
 /**
  * puts2 - the function to test
- * @s: first the parameter to test
+ * @str: first the parameter to test
  *
  * Return: void
  */
